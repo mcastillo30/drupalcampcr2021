@@ -1,0 +1,8 @@
+drupalcamp_common.index:
+  path: '/welcome'
+  defaults:
+    _controller: '\Drupal\drupalcamp_common\Controller\CommonController::index'
+    _title: 'DrupalCamp'
+  requirements:
+    _role: 'administrator'
+
