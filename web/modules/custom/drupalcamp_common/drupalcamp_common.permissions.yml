@@ -1,0 +1,5 @@
+view articles:
+  title: 'View Articles'
+  description: 'Access permission to access article view.'
+  restrict access: TRUE
+
